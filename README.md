@@ -16,5 +16,3 @@ ArcGIS ModelBuilder tool (and Python export) that:
 - Optional **grouped table** output
 
 ---
-
-## Repository Structure
